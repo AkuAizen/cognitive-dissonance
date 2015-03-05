@@ -1,2 +1,6 @@
-# cognitive-dissonance
-Defined as the mental stress or discomfort experienced by an individual who holds two or more contradictory beliefs, ideas, or values at the same time, or is confronted by new information that conflicts with existing beliefs, ideas, or values (Wikipedia, 2015).
+# Cognitive-Dissonance
+
+--------------------------------------------------------------------------------------------------------------------
+I've began tinkering with Unity v5 Personal Ed. and Unreal Engine 4 in the hopes of producing a sound game concept utilising the themes of cognition and cognitive dissonance. The intended Game Design Document will reflect this direction/line of thought and will be submitted as soon as I complete the first legible draft.
+
+-AkuAizen
